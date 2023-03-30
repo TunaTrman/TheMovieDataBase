@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Ekran Resmi 2023-03-30 11.29.29.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
